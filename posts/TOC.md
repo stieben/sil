@@ -1,3 +1,9 @@
 # Table of contents
 
-No posts, yet.
+Categories:
+
+- [bash](#bash)
+
+## bash
+
+- [Search with grep](bash/search-with-grep.md)

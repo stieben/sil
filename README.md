@@ -7,7 +7,7 @@ I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-0 entries so far.
+1 entry so far.
 [Take a look.](posts/TOC.md)
 
 ## About the idea
