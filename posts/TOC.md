@@ -2,8 +2,13 @@
 
 Categories:
 
-- [bash](#bash)
+- [Bash](#bash)
+- [Git](#git)
 
-## bash
+## Bash
 
 - [Search with grep](bash/search-with-grep.md)
+
+## Git
+
+- [Merge](git/merge.md)
