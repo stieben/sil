@@ -5,6 +5,7 @@ Categories:
 - [Bash](#bash)
 - [CSS](#css)
 - [Git](#git)
+- [JavaScript](#javascript)
 
 ## Bash
 
@@ -17,3 +18,7 @@ Categories:
 ## Git
 
 - [Merge](git/merge.md)
+
+## JavaScript
+
+- [How to determine equality of two objects](js/equality-of-two-objects.md)
