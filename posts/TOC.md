@@ -10,6 +10,7 @@ Categories:
 
 ## Bash
 
+- [Determine the IP address of a domain](bash/determine-ip-of-domain.md)
 - [Search with grep](bash/search-with-grep.md)
 
 ## CSS
