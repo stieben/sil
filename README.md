@@ -2,13 +2,42 @@
 
 > Stuff I learned
 
-This will be a collection of snippets I learned, primarily to keep for reference and easy look-up, but also as a reminder of how much I forget and the interesting things I once have known.
+This is a collection of snippets I learned, primarily to keep for reference and easy look-up, but also as a reminder of how much I forget and the interesting things I once have known.
 I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-7 entries so far.
-[Take a look.](posts/TOC.md)
+## 7 entries so far
+
+Categories:
+
+- [Bash](#bash)
+- [CSS](#css)
+- [Git](#git)
+- [JavaScript](#javascript)
+- [Super User](#super-user)
+
+### Bash
+
+- [Determine the IP address of a domain](posts/bash/determine-ip-of-domain.md)
+- [Search with grep](posts/bash/search-with-grep.md)
+
+### CSS
+
+- [Add content with `::before` and `::after`](posts/css/add-content-before-and-after.md)
+
+### Git
+
+- [Merge](posts/git/merge.md)
+- [Sync a fork](posts/git/sync-a-fork.md)
+
+### JavaScript
+
+- [Determine equality of two objects](posts/js/equality-of-two-objects.md)
+
+### Super User
+
+- [Ad hoc peer-to-peer file transfer](posts/superuser/ad-hoc-p2p-file-transfer.md)
 
 ## About the idea
 

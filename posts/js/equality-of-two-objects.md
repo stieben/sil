@@ -1,4 +1,4 @@
-# How to determine equality of two objects
+# Determine equality of two objects
 
 _#javascript_ _#underscore_
 
