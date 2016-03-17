@@ -20,6 +20,7 @@ Categories:
 ## Git
 
 - [Merge](git/merge.md)
+- [Sync a fork](git/sync-a-fork.md)
 
 ## JavaScript
 
