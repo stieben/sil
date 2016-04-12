@@ -7,7 +7,7 @@ I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-## 7 entries so far
+## 8 entries so far
 
 Categories:
 
@@ -20,6 +20,7 @@ Categories:
 ### Bash
 
 - [Determine the IP address of a domain](posts/bash/determine-ip-of-domain.md)
+- [FTP](posts/bash/ftp.md)
 - [Search with grep](posts/bash/search-with-grep.md)
 
 ### CSS
