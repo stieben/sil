@@ -10,3 +10,13 @@ $ which <command>
 ```
 
 More information: [Unix & Linux Stack Exchange](http://unix.stackexchange.com/questions/85249/why-not-use-which-what-to-use-then)
+
+## Version
+
+```bash
+$ apache2 -v
+$ atom -v
+$ nodejs -v
+$ perl -v
+$ php -v
+```
