@@ -2,12 +2,12 @@
 
 > Stuff I learned
 
-This is a collection of snippets I learned, primarily to keep for reference and easy look-up, but also as a reminder of how much I forget and the interesting things I once have known.
+This is a collection of things I learned, primarily to keep for reference and easy look-up, but also as a reminder of how much I forget and the interesting stuff I once have known.
 I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-## 9 entries so far
+## 10 entries so far
 
 Categories:
 
@@ -16,6 +16,8 @@ Categories:
 - [Git](#git)
 - [JavaScript](#javascript)
 - [Super User](#super-user)
+
+- [Health](#health)
 
 ### Bash
 
@@ -40,6 +42,12 @@ Categories:
 ### Super User
 
 - [Ad hoc peer-to-peer file transfer](posts/superuser/ad-hoc-p2p-file-transfer.md)
+
+---
+
+### Health
+
+- [Processed food](posts/health/processed-food.md)
 
 ## About the idea
 
