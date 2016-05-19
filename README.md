@@ -7,7 +7,7 @@ I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-## 11 entries so far
+## 12 entries so far
 
 Categories:
 
@@ -34,6 +34,7 @@ Categories:
 
 ### Linux
 
+- [Apache](posts/linux/apache.md)
 - [Cronjobs](posts/linux/cronjobs.md)
 - [Determine the IP address of a domain](posts/linux/determine-ip-of-domain.md)
 - [FTP](posts/linux/ftp.md)
