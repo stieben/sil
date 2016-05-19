@@ -7,25 +7,17 @@ I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-## 10 entries so far
+## 11 entries so far
 
 Categories:
 
-- [Bash](#bash)
 - [CSS](#css)
 - [Git](#git)
 - [JavaScript](#javascript)
+- [Linux](#linux)
 - [Super User](#super-user)
 
 - [Health](#health)
-
-### Bash
-
-- [Cronjobs](posts/bash/cronjobs.md)
-- [Determine the IP address of a domain](posts/bash/determine-ip-of-domain.md)
-- [FTP](posts/bash/ftp.md)
-- [Get info about executables](posts/bash/exec-info.md)
-- [Search with grep](posts/bash/search-with-grep.md)
 
 ### CSS
 
@@ -39,6 +31,14 @@ Categories:
 ### JavaScript
 
 - [Determine equality of two objects](posts/js/equality-of-two-objects.md)
+
+### Linux
+
+- [Cronjobs](posts/linux/cronjobs.md)
+- [Determine the IP address of a domain](posts/linux/determine-ip-of-domain.md)
+- [FTP](posts/linux/ftp.md)
+- [Get info about executables](posts/linux/exec-info.md)
+- [Search with grep](posts/linux/search-with-grep.md)
 
 ### Super User
 
