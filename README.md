@@ -7,7 +7,7 @@ I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-## 12 entries so far
+## 13 entries so far
 
 Categories:
 
@@ -15,6 +15,7 @@ Categories:
 - [Git](#git)
 - [JavaScript](#javascript)
 - [Linux](#linux)
+- [Mac OS X](#mac-os-x)
 - [Super User](#super-user)
 
 - [Health](#health)
@@ -40,6 +41,10 @@ Categories:
 - [FTP](posts/linux/ftp.md)
 - [Get info about executables](posts/linux/exec-info.md)
 - [Search with grep](posts/linux/search-with-grep.md)
+
+### Mac OS X
+
+- [Type or edit path in finder](posts/macosx/editpath.md)
 
 ### Super User
 
