@@ -7,7 +7,7 @@ I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-## 14 entries so far
+## 15 entries so far
 
 Categories:
 
@@ -53,6 +53,7 @@ Categories:
 
 ### Health
 
+- [Disposal of medicine](posts/health/med-disposal.md)
 - [Processed food](posts/health/processed-food.md)
 
 ## About the idea
@@ -62,6 +63,6 @@ I didn't want to constrain myself to write once daily, so I get to add things ir
 
 ## License
 
-&copy; 2016 Andrej Stieben
+&copy; 2016-2017 Andrej Stieben
 
 This repository is licensed under the [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) license.
