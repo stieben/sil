@@ -17,6 +17,7 @@ More information: [Unix & Linux Stack Exchange](http://unix.stackexchange.com/qu
 $ apache2 -v
 $ atom -v
 $ nodejs -v
+$ npm -v
 $ perl -v
 $ php -v
 ```
