@@ -7,7 +7,7 @@ I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-## 15 entries so far
+## 16 entries so far
 
 Categories:
 
@@ -26,6 +26,7 @@ Categories:
 
 ### Git
 
+- [Init repository](posts/git/init-repo.md)
 - [Merge](posts/git/merge.md)
 - [Sync a fork](posts/git/sync-a-fork.md)
 
@@ -63,6 +64,6 @@ I didn't want to constrain myself to write once daily, so I get to add things ir
 
 ## License
 
-&copy; 2016-2017 Andrej Stieben
+&copy; 2016-2018 Andrej Stieben
 
-This repository is licensed under the [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) license.
+This repository is licensed under the [CC-BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) license.
