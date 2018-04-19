@@ -7,7 +7,7 @@ I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-## 17 entries so far
+## 18 entries so far
 
 Categories:
 
@@ -27,6 +27,7 @@ Categories:
 ### Git
 
 - [Change author info retroactively](posts/git/change-author-info.md)
+- [Clone branch](posts/git/clone-branch.md)
 - [Init repository](posts/git/init-repo.md)
 - [Merge](posts/git/merge.md)
 - [Sync a fork](posts/git/sync-a-fork.md)
