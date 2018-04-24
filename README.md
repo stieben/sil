@@ -7,7 +7,7 @@ I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-## 19 entries so far
+## 20 entries so far
 
 Categories:
 
@@ -30,6 +30,7 @@ Categories:
 - [Clone branch](posts/git/clone-branch.md)
 - [Init repository](posts/git/init-repo.md)
 - [Merge](posts/git/merge.md)
+- [Rename remote branch](posts/git/rename-remote-branch.md)
 - [Sync a fork](posts/git/sync-a-fork.md)
 
 ### JavaScript
