@@ -7,7 +7,7 @@ I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-## 20 entries so far
+## 21 entries so far
 
 Categories:
 
@@ -42,6 +42,7 @@ Categories:
 - [Apache](posts/linux/apache.md)
 - [Cronjobs](posts/linux/cronjobs.md)
 - [Determine the IP address of a domain](posts/linux/determine-ip-of-domain.md)
+- [Download a file from the command line](posts/linux/download-file-in-terminal.md)
 - [Download a file via SSH](posts/linux/download-file-via-ssh.md)
 - [FTP](posts/linux/ftp.md)
 - [Get info about executables](posts/linux/exec-info.md)
