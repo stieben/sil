@@ -13,6 +13,27 @@ The standard path for the files that are to be served:
 /var/www/html/
 ```
 
+### Permissions
+
+The `html` directory and its subdirectories should be owned by `www-data:www-data` which is the user Apache is operating with:
+
+```
+sudo chown www-data:www-data -R /var/www/html/
+```
+
+Add yourself to the `www-data` group to be able to interact with the document root:
+
+```
+sudo adduser $USER www-data
+```
+
+And finally set the permissions:
+
+```
+sudo chmod 760 -R /var/www/html/ # exclude everyone outside the group
+sudo chmod g+X -R /var/www/html/ # give the group the right for directory traversal
+```
+
 ## Configuration
 
 Most of the configuration is to be done inside this folder:
@@ -42,4 +63,4 @@ sudo /etc/init.d/apache2 reload    # reload configuration
 
 ## Credits
 
-Information taken from [ubuntuusers Wiki](https://wiki.ubuntuusers.de/Apache/).
+Information taken from [ubuntuusers Wiki](https://wiki.ubuntuusers.de/Apache/) and [`solancer/apache-nginx-ftp` gist](https://gist.github.com/solancer/879105abb05eb7f13ce23e822ed70dd6).

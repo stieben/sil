@@ -17,7 +17,6 @@ Categories:
 - [Linux](#linux)
 - [Mac OS X](#mac-os-x)
 - [Super User](#super-user)
-
 - [Health](#health)
 
 ### CSS
@@ -69,6 +68,6 @@ I didn't want to constrain myself to write once daily, so I get to add things ir
 
 ## License
 
-&copy; 2016-2018 Andrej Stieben
+&copy; 2016-2020 Andrej Stieben
 
 This repository is licensed under the [CC-BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) license.
