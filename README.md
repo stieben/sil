@@ -7,7 +7,7 @@ I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-## 22 entries so far
+## 23 entries so far
 
 Categories:
 
@@ -36,6 +36,7 @@ Categories:
 ### JavaScript
 
 - [Determine equality of two objects](posts/js/equality-of-two-objects.md)
+- [wtf.js: Assignment](posts/js/wtf.js-assignment.md)
 
 ### Linux
 
