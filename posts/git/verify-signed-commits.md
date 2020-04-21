@@ -8,6 +8,13 @@ Execute this in the terminal from your project root directory:
 git log --show-signature
 ```
 
-## Source
+This makes you enter the `less` program:
 
-- [StackOverflow](https://stackoverflow.com/a/32038784/2040520)
+- Press `Space` to scroll down one page
+- Press `q` to exit
+- Press `h` to display information
+
+## Sources
+
+- [StackOverflow: How to exit git log or git diff](https://stackoverflow.com/a/9483803/2040520)
+- [StackOverflow: Verifying signed git commits?](https://stackoverflow.com/a/32038784/2040520)
