@@ -7,12 +7,13 @@ I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-## 24 entries so far
+## 25 entries so far
 
 Categories:
 
 - [CSS](#css)
 - [Git](#git)
+- [GitHub](#github)
 - [JavaScript](#javascript)
 - [Linux](#linux)
 - [Mac OS X](#mac-os-x)
@@ -33,6 +34,10 @@ Categories:
 - [Rename remote branch](posts/git/rename-remote-branch.md)
 - [Sync a fork](posts/git/sync-a-fork.md)
 - [Verify signed commits](posts/git/verify-signed-commits.md)
+
+### GitHub
+
+- [Using the API](posts/github/using-the-api.md)
 
 ### JavaScript
 
