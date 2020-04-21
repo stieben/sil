@@ -7,7 +7,7 @@ I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-## 23 entries so far
+## 24 entries so far
 
 Categories:
 
@@ -32,6 +32,7 @@ Categories:
 - [Merge](posts/git/merge.md)
 - [Rename remote branch](posts/git/rename-remote-branch.md)
 - [Sync a fork](posts/git/sync-a-fork.md)
+- [Verify signed commits](posts/git/verify-signed-commits.md)
 
 ### JavaScript
 
