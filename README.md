@@ -7,7 +7,7 @@ I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-## 25 entries so far
+## 26 entries so far
 
 Categories:
 
@@ -54,6 +54,7 @@ Categories:
 - [FTP](posts/linux/ftp.md)
 - [Get info about executables](posts/linux/exec-info.md)
 - [Invisible cursor](posts/linux/invisible-cursor.md)
+- [Search and replace with sed](posts/linux/search-replace-sed.md)
 - [Search with grep](posts/linux/search-with-grep.md)
 
 ### Mac OS X
