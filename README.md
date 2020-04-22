@@ -7,7 +7,7 @@ I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-## 26 entries so far
+## 27 entries so far
 
 Categories:
 
@@ -56,6 +56,7 @@ Categories:
 - [Invisible cursor](posts/linux/invisible-cursor.md)
 - [Search and replace with sed](posts/linux/search-replace-sed.md)
 - [Search with grep](posts/linux/search-with-grep.md)
+- [Working with GPG keys](posts/linux/gpg-keys.md)
 
 ### Mac OS X
 
