@@ -7,7 +7,7 @@ I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-## 27 entries so far
+## 28 entries so far
 
 Categories:
 
@@ -47,6 +47,7 @@ Categories:
 ### Linux
 
 - [Apache](posts/linux/apache.md)
+- [Copy files: One to many](posts/linux/cp-files-1-n.md)
 - [Cronjobs](posts/linux/cronjobs.md)
 - [Determine the IP address of a domain](posts/linux/determine-ip-of-domain.md)
 - [Download a file from the command line](posts/linux/download-file-in-terminal.md)
