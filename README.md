@@ -7,7 +7,7 @@ I put them here in the hope that they may be useful for others as well.
 
 Feel free to contribute!
 
-## 29 entries so far
+## 30 entries so far
 
 Categories:
 
@@ -56,6 +56,7 @@ Categories:
 - [FTP](posts/linux/ftp.md)
 - [Get info about executables](posts/linux/exec-info.md)
 - [Invisible cursor](posts/linux/invisible-cursor.md)
+- [Move hidden files](posts/linux/move-hidden-files.md)
 - [Search with grep](posts/linux/search-with-grep.md)
 - [Working with GPG keys](posts/linux/gpg-keys.md)
 - [Working with text](posts/linux/text.md)
