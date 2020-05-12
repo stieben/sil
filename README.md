@@ -56,9 +56,9 @@ Categories:
 - [FTP](posts/linux/ftp.md)
 - [Get info about executables](posts/linux/exec-info.md)
 - [Invisible cursor](posts/linux/invisible-cursor.md)
-- [Search and replace with sed](posts/linux/search-replace-sed.md)
 - [Search with grep](posts/linux/search-with-grep.md)
 - [Working with GPG keys](posts/linux/gpg-keys.md)
+- [Working with text](posts/linux/text.md)
 
 ### Mac OS X
 
