@@ -1,6 +1,8 @@
-# Count files and folders of current directory
+# Working with directories
 
 _#unix_ _#bash_
+
+## Count files and folders of current directory
 
 Let's assume we have 1 folder in our current directory:
 
@@ -19,6 +21,13 @@ $ ls -al | wc -l
 4 # subtracting 3 => 1 file/folder
 ```
 
-## Source
+## List all symbolic links of current directory
+
+```bash
+find . -maxdepth 1 -type l -ls
+```
+
+## Sources
 
 - [Ask Ubuntu: Find number of files in folder and sub folders?](https://askubuntu.com/a/34102/466593)
+- [Ask Ubuntu: How to list all symbolic links in a directory](https://askubuntu.com/a/522059/466593)

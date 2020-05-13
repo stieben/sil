@@ -48,7 +48,6 @@ Categories:
 
 - [Apache](posts/linux/apache.md)
 - [Copy files: One to many](posts/linux/cp-files-1-n.md)
-- [Count files and folders](posts/linux/count-files-folders.md)
 - [Cronjobs](posts/linux/cronjobs.md)
 - [Determine the IP address of a domain](posts/linux/determine-ip-of-domain.md)
 - [Download a file from the command line](posts/linux/download-file-in-terminal.md)
@@ -58,6 +57,7 @@ Categories:
 - [Invisible cursor](posts/linux/invisible-cursor.md)
 - [Move hidden files](posts/linux/move-hidden-files.md)
 - [Search with grep](posts/linux/search-with-grep.md)
+- [Working with directories](posts/linux/directories.md)
 - [Working with GPG keys](posts/linux/gpg-keys.md)
 - [Working with text](posts/linux/text.md)
 
