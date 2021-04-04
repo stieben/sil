@@ -2,6 +2,37 @@
 
 _#unix_ _#bash_ _#git_
 
+## Before pushing
+
+1. Fix your information in the Git configuration of the project:
+
+```bash
+git config user.name "Your Correct Name"
+git config user.email "your-correct-email@example.com"
+```
+
+2. Start rebase:
+
+```bash
+git rebase -i HEAD~1 # will bring up an editor
+```
+
+3. In the editor, mark the commit as `edit`, then save and exit the editor.
+
+4. Do an amend that resets the author now that your information is updated:
+
+```bash
+git commit --amend --reset-author
+```
+
+5. Finish the rebase:
+
+```bash
+git rebase --continue
+```
+
+## After pushing
+
 Open up a terminal:
 
 ```bash
@@ -43,6 +74,7 @@ cd ..
 rm -rf <repo>.git
 ```
 
-## Source
+## Sources
 
+- [gist](https://gist.github.com/carlosmcevilly/2221249) by [carlosmcevilly](https://gist.github.com/carlosmcevilly)
 - [GitHub Help](https://help.github.com/articles/changing-author-info/)

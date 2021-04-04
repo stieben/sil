@@ -1,15 +1,9 @@
 # SIL
 
-> Stuff I learned
-
-This is a collection of things I learned, primarily to keep for reference and easy look-up, but also as a reminder of how much I forget and the interesting stuff I once have known.
+This is a collection of _stuff I learned_, primarily to keep for reference and easy look-up.
 I put them here in the hope that they may be useful for others as well.
 
-Feel free to contribute!
-
-## 30 entries so far
-
-Categories:
+30 entries so far, divided into the following categories:
 
 - [CSS](#css)
 - [Git](#git)
@@ -20,11 +14,11 @@ Categories:
 - [Super User](#super-user)
 - [Health](#health)
 
-### CSS
+## CSS
 
 - [Add content with `::before` and `::after`](posts/css/add-content-before-and-after.md)
 
-### Git
+## Git
 
 - [Change author info retroactively](posts/git/change-author-info.md)
 - [Clone branch](posts/git/clone-branch.md)
@@ -35,16 +29,16 @@ Categories:
 - [Sync a fork](posts/git/sync-a-fork.md)
 - [Verify signed commits](posts/git/verify-signed-commits.md)
 
-### GitHub
+## GitHub
 
 - [Using the API](posts/github/using-the-api.md)
 
-### JavaScript
+## JavaScript
 
 - [Determine equality of two objects](posts/js/equality-of-two-objects.md)
 - [wtf.js: Assignment](posts/js/wtf.js-assignment.md)
 
-### Linux
+## Linux
 
 - [Apache](posts/linux/apache.md)
 - [Copy files: One to many](posts/linux/cp-files-1-n.md)
@@ -61,15 +55,15 @@ Categories:
 - [Working with GPG keys](posts/linux/gpg-keys.md)
 - [Working with text](posts/linux/text.md)
 
-### Mac OS X
+## Mac OS X
 
 - [Type or edit path in finder](posts/macosx/editpath.md)
 
-### Super User
+## Super User
 
 - [Ad hoc peer-to-peer file transfer](posts/superuser/ad-hoc-p2p-file-transfer.md)
 
-### Health
+## Health
 
 - [Disposal of medicine](posts/health/med-disposal.md)
 - [Processed food](posts/health/processed-food.md)
@@ -81,6 +75,6 @@ I didn't want to constrain myself to write once daily, so I get to add things ir
 
 ## License
 
-&copy; 2016-2020 Andrej Stieben
+&copy; 2016-2021 Andrej Stieben
 
 This repository is licensed under the [CC-BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) license.
