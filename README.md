@@ -3,7 +3,7 @@
 This is a collection of _stuff I learned_, primarily to keep for reference and easy look-up.
 I put them here in the hope that they may be useful for others as well.
 
-31 entries so far, divided into the following categories:
+32 entries so far, divided into the following categories:
 
 - [CSS](#css)
 - [Git](#git)
@@ -12,6 +12,7 @@ I put them here in the hope that they may be useful for others as well.
 - [Linux](#linux)
 - [Mac OS X](#mac-os-x)
 - [Super User](#super-user)
+- [Yarn](#yarn)
 - [Health](#health)
 
 ## CSS
@@ -63,6 +64,10 @@ I put them here in the hope that they may be useful for others as well.
 ## Super User
 
 - [Ad hoc peer-to-peer file transfer](posts/superuser/ad-hoc-p2p-file-transfer.md)
+
+## Yarn
+
+- [Why is this package installed?](posts/yarn/why.md)
 
 ## Health
 
