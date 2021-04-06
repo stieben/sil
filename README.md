@@ -3,7 +3,7 @@
 This is a collection of _stuff I learned_, primarily to keep for reference and easy look-up.
 I put them here in the hope that they may be useful for others as well.
 
-30 entries so far, divided into the following categories:
+31 entries so far, divided into the following categories:
 
 - [CSS](#css)
 - [Git](#git)
@@ -51,6 +51,7 @@ I put them here in the hope that they may be useful for others as well.
 - [Invisible cursor](posts/linux/invisible-cursor.md)
 - [Move hidden files](posts/linux/move-hidden-files.md)
 - [Search with grep](posts/linux/search-with-grep.md)
+- [Trash folder](posts/linux/trash-folder.md)
 - [Working with directories](posts/linux/directories.md)
 - [Working with GPG keys](posts/linux/gpg-keys.md)
 - [Working with text](posts/linux/text.md)
