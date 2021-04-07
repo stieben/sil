@@ -3,7 +3,7 @@
 This is a collection of _stuff I learned_, primarily to keep for reference and easy look-up.
 I put them here in the hope that they may be useful for others as well.
 
-32 entries so far, divided into the following categories:
+33 entries so far, divided into the following categories:
 
 - [CSS](#css)
 - [Git](#git)
@@ -11,6 +11,7 @@ I put them here in the hope that they may be useful for others as well.
 - [JavaScript](#javascript)
 - [Linux](#linux)
 - [Mac OS X](#mac-os-x)
+- [Software development](#software-development)
 - [Super User](#super-user)
 - [Yarn](#yarn)
 - [Health](#health)
@@ -60,6 +61,10 @@ I put them here in the hope that they may be useful for others as well.
 ## Mac OS X
 
 - [Type or edit path in finder](posts/macosx/editpath.md)
+
+## Software development
+
+- [Semantic versioning](posts/software-development/semantic-versioning.md)
 
 ## Super User
 
