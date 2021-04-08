@@ -3,7 +3,7 @@
 This is a collection of _stuff I learned_, primarily to keep for reference and easy look-up.
 I put them here in the hope that they may be useful for others as well.
 
-33 entries so far, divided into the following categories:
+34 entries so far, divided into the following categories:
 
 - [CSS](#css)
 - [Git](#git)
@@ -72,6 +72,7 @@ I put them here in the hope that they may be useful for others as well.
 
 ## Yarn
 
+- [Run locally installed packages](posts/yarn/run-locally-installed-packages.md)
 - [Why is this package installed?](posts/yarn/why.md)
 
 ## Health
