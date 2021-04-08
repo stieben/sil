@@ -15,6 +15,10 @@ _#software-development_
 > - Minor releases: 1 or 1.x or ^1.0.4
 > - Major releases: * or x
 
+Pay attention that the caret (`^`) is equivalent to the tilde (`~`) for versions below 1.0.0.
+So `^0.3.1` actually means `0.3.x`.
+You can test ranges with the [npm semver calculator](https://semver.npmjs.com/).
+
 ## Source
 
 - npm Docs: [About semantic versioning](https://docs.npmjs.com/about-semantic-versioning)
