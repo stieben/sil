@@ -3,7 +3,7 @@
 This is a collection of _stuff I learned_, primarily to keep for reference and easy look-up.
 I put them here in the hope that they may be useful for others as well.
 
-35 entries so far, divided into the following categories:
+36 entries so far, divided into the following categories:
 
 - [CSS](#css)
 - [Git](#git)
@@ -24,6 +24,7 @@ I put them here in the hope that they may be useful for others as well.
 
 - [Change author info retroactively](posts/git/change-author-info.md)
 - [Clone branch](posts/git/clone-branch.md)
+- [Delete unpushed commit](posts/git/delete-unpushed-commit.md)
 - [Ignore file mode changes](posts/git/ignore-file-mode.md)
 - [Init repository](posts/git/init-repo.md)
 - [Merge](posts/git/merge.md)
