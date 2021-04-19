@@ -3,7 +3,7 @@
 This is a collection of _stuff I learned_, primarily to keep for reference and easy look-up.
 I put them here in the hope that they may be useful for others as well.
 
-36 entries so far, divided into the following categories:
+37 entries so far, divided into the following categories:
 
 - [CSS](#css)
 - [Git](#git)
@@ -39,6 +39,7 @@ I put them here in the hope that they may be useful for others as well.
 ## JavaScript
 
 - [Determine equality of two objects](posts/js/equality-of-two-objects.md)
+- [Determine pixel density](posts/js/pixel-density.md)
 - [wtf.js: Assignment](posts/js/wtf.js-assignment.md)
 
 ## Linux
