@@ -1,4 +1,4 @@
-# Determine pixel density
+# Device pixel ratio
 
 _#javascript_ _#browser_
 

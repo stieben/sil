@@ -39,7 +39,7 @@ I put them here in the hope that they may be useful for others as well.
 ## JavaScript
 
 - [Determine equality of two objects](posts/js/equality-of-two-objects.md)
-- [Determine pixel density](posts/js/pixel-density.md)
+- [Device pixel ratio](posts/js/device-pixel-ratio.md)
 - [wtf.js: Assignment](posts/js/wtf.js-assignment.md)
 
 ## Linux
