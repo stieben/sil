@@ -3,11 +3,12 @@
 This is a collection of _stuff I learned_, primarily to keep for reference and easy look-up.
 I put them here in the hope that they may be useful for others as well.
 
-37 entries so far, divided into the following categories:
+38 entries so far, divided into the following categories:
 
 - [CSS](#css)
 - [Git](#git)
 - [GitHub](#github)
+- [HTML](#html)
 - [JavaScript](#javascript)
 - [Linux](#linux)
 - [Mac OS X](#mac-os-x)
@@ -35,6 +36,10 @@ I put them here in the hope that they may be useful for others as well.
 ## GitHub
 
 - [Using the API](posts/github/using-the-api.md)
+
+## HTML
+
+- [Attribute `srcset`](posts/html/attr-srcset.md)
 
 ## JavaScript
 
