@@ -3,7 +3,7 @@
 This is a collection of _stuff I learned_, primarily to keep for reference and easy look-up.
 I put them here in the hope that they may be useful for others as well.
 
-38 entries so far, divided into the following categories:
+39 entries so far, divided into the following categories:
 
 - [CSS](#css)
 - [Git](#git)
@@ -12,6 +12,7 @@ I put them here in the hope that they may be useful for others as well.
 - [JavaScript](#javascript)
 - [Linux](#linux)
 - [Mac OS X](#mac-os-x)
+- [Nuxt](#nuxt)
 - [Software development](#software-development)
 - [Super User](#super-user)
 - [Yarn](#yarn)
@@ -68,6 +69,10 @@ I put them here in the hope that they may be useful for others as well.
 ## Mac OS X
 
 - [Type or edit path in finder](posts/macosx/editpath.md)
+
+## Nuxt
+
+- [Client-only script](posts/nuxt/client-only-script.md)
 
 ## Software development
 
